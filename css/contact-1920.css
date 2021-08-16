@@ -1,0 +1,359 @@
+/* screen - contact-1920 */
+
+.contact-1920 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1080px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.contact-1920 .bgimgpg3-opVjSD {
+  background-color: transparent;
+  height: 540px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.contact-1920 .rectangle-35-opVjSD {
+  background-color: var(--scampi);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 181px;
+  left: 0px;
+  opacity: 0.42;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.contact-1920 .group-15-opVjSD {
+  background-color: transparent;
+  display: block;
+  height: 146px;
+  position: absolute;
+  right: calc(49.28% - 257px);
+  top: calc(28.91% - 42px);
+  width: 522px;
+  opacity: 0;
+}
+
+.contact-1920 .group-15-opVjSD.animate-enter2 {
+  animation: animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.contact-1920 .contact-us-xqyrxd {
+  background-color: transparent;
+  display: block;
+  height: 93px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 33px);
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+.contact-1920 .contact-us-xqyrxd.animate-enter {
+  animation: animate-enter-frames 0.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.contact-1920 .thank-you-for-choosing-catmex-xqyrxd {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 35px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+  opacity: 0;
+}
+
+.contact-1920 .thank-you-for-choosing-catmex-xqyrxd.animate-enter1 {
+  animation: animate-enter1-frames 0.40s ease-in-out 0.40s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.contact-1920 .rectangle-17-opVjSD {
+  background-color: transparent;
+  border-radius: 9px;
+  bottom: 21px;
+  height: 496px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 47px);
+}
+
+.contact-1920 .rectangle-14-opVjSD {
+  background-color: transparent;
+  border-radius: 20px;
+  bottom: 67px;
+  height: 202px;
+  object-fit: cover;
+  position: absolute;
+  right: 229px;
+  width: 728px;
+}
+
+.contact-1920 .contact-us-opVjSD {
+  background-color: transparent;
+  bottom: calc(26.58% - 14px);
+  height: 53px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  width: 170px;
+}
+
+.contact-1920 .licensed-bonded-opVjSD {
+  background-color: transparent;
+  bottom: 73px;
+  height: 40px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  width: 198px;
+}
+
+.contact-1920 .spanish-english-sign-language-opVjSD {
+  background-color: transparent;
+  bottom: 50px;
+  height: 28px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  width: 243px;
+}
+
+.contact-1920 .for-estimates-q-ve-us-a-message-opVjSD {
+  background-color: transparent;
+  bottom: calc(18.14% - 15px);
+  height: 82px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  width: 413px;
+}
+
+.contact-1920 .rectangle-15-opVjSD {
+  background-color: transparent;
+  border-radius: 20px;
+  bottom: calc(29.29% - 21px);
+  height: 73px;
+  object-fit: cover;
+  position: absolute;
+  right: 229px;
+  width: 728px;
+}
+
+.contact-1920 .logo-facebook-opVjSD {
+  background-color: transparent;
+  bottom: calc(38.97% - 18px);
+  height: 46px;
+  left: 205px;
+  object-fit: cover;
+  position: absolute;
+  width: 46px;
+}
+
+.contact-1920 .logo-instagram-opVjSD {
+  background-color: transparent;
+  bottom: calc(39.02% - 16px);
+  height: 42px;
+  left: calc(18.37% - 8px);
+  object-fit: cover;
+  position: absolute;
+  width: 42px;
+}
+
+.contact-1920 .logo-linkedin-opVjSD {
+  background-color: transparent;
+  bottom: calc(38.95% - 19px);
+  height: 48px;
+  left: calc(25.69% - 12px);
+  object-fit: cover;
+  position: absolute;
+  width: 48px;
+}
+
+.contact-1920 .rectangle-16-opVjSD {
+  background-color: transparent;
+  border-radius: 20px;
+  bottom: calc(38.73% - 28px);
+  height: 73px;
+  object-fit: cover;
+  position: absolute;
+  right: 229px;
+  width: 728px;
+}
+
+.contact-1920 .line-1-opVjSD {
+  background-color: transparent;
+  bottom: 78px;
+  height: 378px;
+  left: calc(47.68% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.contact-1920 .rectangle-18-opVjSD {
+  background-color: transparent;
+  border-radius: 16px;
+  bottom: 67px;
+  cursor: pointer;
+  height: 59px;
+  object-fit: cover;
+  position: absolute;
+  right: 47px;
+  width: 178px;
+}
+
+.contact-1920 .submit-opVjSD {
+  background-color: transparent;
+  bottom: 79px;
+  cursor: pointer;
+  height: 43px;
+  object-fit: cover;
+  position: absolute;
+  right: 92px;
+  width: 87px;
+}
+
+.contact-1920 .name-opVjSD {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(39.15% - 17px);
+  height: 43px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: calc(45.43% - 31px);
+  width: 69px;
+}
+
+.contact-1920 .email-opVjSD {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(30.28% - 13px);
+  height: 43px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: calc(45.43% - 31px);
+  width: 69px;
+}
+
+.contact-1920 .message-opVjSD {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(21.22% - 9px);
+  height: 43px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: calc(44.38% - 46px);
+  width: 104px;
+}
+
+.contact-1920 .line-4-opVjSD {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.41% - 36px);
+  top: 127px;
+  width: 193px;
+}
+
+.contact-1920 .home-opVjSD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: calc(25.10% - 38px);
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 151px;
+}
+
+.contact-1920 .services-opVjSD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.56% - 74px);
+  top: 64px;
+  width: 193px;
+}
+
+.contact-1920 .contact-opVjSD {
+  background-color: transparent;
+  height: 59px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.32% - 35px);
+  top: 64px;
+  width: 190px;
+}
+
+.contact-1920 .about-opVjSD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: calc(42.57% - 63px);
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 149px;
+}
+
+.contact-1920 .catmexlogomain2-01-opVjSD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 202px;
+  left: -25px;
+  object-fit: cover;
+  position: absolute;
+  top: -7px;
+  width: 358px;
+}

@@ -1,0 +1,174 @@
+/* screen - about-1920 */
+
+.about-1920 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1080px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.about-1920 .bgimgpg2-qf2xMx {
+  background-color: transparent;
+  height: 577px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.about-1920 .innertext-qf2xMx {
+  background-color: transparent;
+  height: 195px;
+  position: absolute;
+  right: calc(50.00% - 315px);
+  top: calc(32.66% - 64px);
+  width: 630px;
+}
+
+.about-1920 .about-BrNWUf {
+  background-color: transparent;
+  display: block;
+  height: 86px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.76% - 105px);
+  top: 0px;
+  width: 212px;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+.about-1920 .about-BrNWUf.animate-enter5 {
+  animation: animate-enter5-frames 0.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+@keyframes animate-enter5-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.about-1920 .catmex-maintena-e-you-can-trust-BrNWUf {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 80px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+.about-1920 .catmex-maintena-e-you-can-trust-BrNWUf.animate-enter6 {
+  animation: animate-enter6-frames 0.40s ease-in-out 0.40s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+@keyframes animate-enter6-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.about-1920 .menu-qf2xMx {
+  background-color: transparent;
+  height: 202px;
+  left: -25px;
+  position: absolute;
+  top: -7px;
+  width: calc(100.00% + 25px);
+}
+
+.about-1920 .navbar-iXwpNZ {
+  background-color: var(--scampi);
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 21px);
+  left: 25px;
+  opacity: 0.42;
+  position: absolute;
+  top: 7px;
+  width: calc(100.00% - 25px);
+}
+
+.about-1920 .line-3-iXwpNZ {
+  background-color: transparent;
+  bottom: calc(34.67% - 1px);
+  height: 3px;
+  left: calc(43.38% - 64px);
+  object-fit: cover;
+  position: absolute;
+  width: 148px;
+}
+
+.about-1920 .home-iXwpNZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: calc(26.14% - 39px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.65% - 29px);
+  width: 151px;
+}
+
+.about-1920 .services-iXwpNZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.01% - 73px);
+  top: calc(49.65% - 29px);
+  width: 193px;
+}
+
+.about-1920 .contact-iXwpNZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.06% - 34px);
+  top: calc(49.65% - 29px);
+  width: 190px;
+}
+
+.about-1920 .about-iXwpNZ {
+  background-color: transparent;
+  height: 59px;
+  left: calc(43.37% - 65px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.65% - 29px);
+  width: 149px;
+}
+
+.about-1920 .catmexlogomain2-01-iXwpNZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 358px;
+}

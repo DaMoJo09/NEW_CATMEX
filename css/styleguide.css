@@ -1,0 +1,117 @@
+:root { 
+  --black-russian: #010026;
+  --dove-gray: #707070;
+  --scampi: #625da6;
+  --swiss-coffee: #ddd3d3;
+  --white: #ffffff;
+ 
+  --font-size-l: 14px;
+  --font-size-m: 10px;
+  --font-size-s: 6px;
+  --font-size-xl: 25px;
+  --font-size-xs: 4px;
+  --font-size-xxl: 31px;
+  --font-size-xxxl: 50px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-stixsizetwosym-regular: "STIXSizeTwoSym-Regular", Helvetica;
+}
+.stixsizetwosym-regular-normal-swiss-coffee-50px {
+  color: var(--swiss-coffee);
+  font-family: var(--font-family-stixsizetwosym-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.stixsizetwosym-regular-normal-swiss-coffee-25px {
+  color: var(--swiss-coffee);
+  font-family: var(--font-family-stixsizetwosym-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-thin-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 100;
+}
+
+.stixsizetwosym-regular-normal-swiss-coffee-31px {
+  color: var(--swiss-coffee);
+  font-family: var(--font-family-stixsizetwosym-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.stixsizetwosym-regular-normal-swiss-coffee-15px {
+  color: var(--swiss-coffee);
+  font-family: var(--font-family-stixsizetwosym-regular);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-thin-white-10px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 100;
+}
+
+.stixsizetwosym-regular-normal-swiss-coffee-19px {
+  color: var(--swiss-coffee);
+  font-family: var(--font-family-stixsizetwosym-regular);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.stixsizetwosym-regular-normal-swiss-coffee-9px {
+  color: var(--swiss-coffee);
+  font-family: var(--font-family-stixsizetwosym-regular);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-thin-white-6px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 100;
+}
+
+.stixsizetwosym-regular-normal-swiss-coffee-10px {
+  color: var(--swiss-coffee);
+  font-family: var(--font-family-stixsizetwosym-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.stixsizetwosym-regular-normal-swiss-coffee-4px {
+  color: var(--swiss-coffee);
+  font-family: var(--font-family-stixsizetwosym-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-thin-white-4px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 100;
+}
+
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}

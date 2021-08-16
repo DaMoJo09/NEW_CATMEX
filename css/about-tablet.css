@@ -1,0 +1,165 @@
+/* screen - about-tablet */
+
+.about-tablet {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1024px;
+  min-width: 768px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.about-tablet .bgimgpg2-XPmOJ4 {
+  background-color: transparent;
+  height: 591px;
+  left: -576px;
+  object-fit: cover;
+  position: absolute;
+  top: -14px;
+  width: calc(100.00% + 1152px);
+}
+
+.about-tablet .about-XPmOJ4 {
+  background-color: transparent;
+  display: block;
+  height: 76px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.82% - 112px);
+  top: calc(20.68% - 16px);
+  width: 224px;
+  opacity: 0;
+transform: translate(25px, 0);
+}
+
+.about-tablet .about-XPmOJ4.animate-enter18 {
+  animation: animate-enter18-frames 0.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(25px, 0);
+}
+
+@keyframes animate-enter18-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.about-tablet .catmex-maintena-e-you-can-trust-XPmOJ4 {
+  background-color: transparent;
+  display: block;
+  height: 70px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.24% - 22px);
+  width: calc(100.00% - 212px);
+  opacity: 0;
+transform: scale(1.1);
+}
+
+.about-tablet .catmex-maintena-e-you-can-trust-XPmOJ4.animate-enter19 {
+  animation: animate-enter19-frames 0.40s ease-in-out 0.40s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: scale(1.1);
+}
+
+@keyframes animate-enter19-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.about-tablet .menu-XPmOJ4 {
+  background-color: transparent;
+  height: 88px;
+  left: -14px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 14px);
+}
+
+.about-tablet .navbar-xydxmy {
+  background-color: var(--scampi);
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 7px);
+  left: 14px;
+  opacity: 0.42;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 14px);
+}
+
+.about-tablet .line-3-xydxmy {
+  background-color: transparent;
+  bottom: 33.95%;
+  height: 1px;
+  left: calc(45.36% - 26px);
+  object-fit: cover;
+  position: absolute;
+  width: 56px;
+}
+
+.about-tablet .home-xydxmy {
+  background-color: transparent;
+  bottom: calc(50.00% - 11px);
+  cursor: pointer;
+  height: 22px;
+  left: calc(27.41% - 15px);
+  object-fit: cover;
+  position: absolute;
+  width: 56px;
+}
+
+.about-tablet .services-xydxmy {
+  background-color: transparent;
+  bottom: calc(50.00% - 11px);
+  cursor: pointer;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(35.86% - 25px);
+  width: 71px;
+}
+
+.about-tablet .contact-xydxmy {
+  background-color: transparent;
+  bottom: calc(50.00% - 11px);
+  cursor: pointer;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: 108px;
+  width: 70px;
+}
+
+.about-tablet .about-xydxmy {
+  background-color: transparent;
+  bottom: calc(49.23% - 11px);
+  height: 23px;
+  left: calc(45.30% - 26px);
+  object-fit: cover;
+  position: absolute;
+  width: 58px;
+}
+
+.about-tablet .catmexlogomain2-01-xydxmy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 156px;
+}

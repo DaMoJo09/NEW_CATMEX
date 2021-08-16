@@ -1,0 +1,375 @@
+/* screen - contact-mobile */
+
+.contact-mobile {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 667px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.contact-mobile .bgimgpg3-fkrDsD {
+  background-color: transparent;
+  height: calc(100.00% - 127px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.contact-mobile .rectangle-17-fkrDsD {
+  background-color: transparent;
+  border-radius: 9px;
+  bottom: 8px;
+  height: 496px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 44px);
+}
+
+.contact-mobile .contact-us-fkrDsD {
+  background-color: transparent;
+  height: 30px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.82% - 49px);
+  top: calc(37.05% - 11px);
+  width: 98px;
+}
+
+.contact-mobile .for-estimates-q-ve-us-a-message-fkrDsD {
+  background-color: transparent;
+  height: 44px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.68% - 109px);
+  top: calc(43.82% - 19px);
+  width: 220px;
+}
+
+.contact-mobile .group-10-fkrDsD {
+  background-color: transparent;
+  height: 23px;
+  left: calc(50.00% - 76px);
+  position: absolute;
+  top: calc(29.75% - 7px);
+  width: 152px;
+}
+
+.contact-mobile .logo-facebook-3baMdd {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 22px;
+}
+
+.contact-mobile .logo-instagram-3baMdd {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: calc(49.65% - 10px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.contact-mobile .logo-linkedin-3baMdd {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 23px;
+}
+
+.contact-mobile .group-9-fkrDsD {
+  background-color: transparent;
+  height: 70px;
+  position: absolute;
+  right: calc(49.59% - 125px);
+  top: 62px;
+  width: 252px;
+}
+
+.contact-mobile .contact-us-51KbhW {
+  background-color: transparent;
+  display: block;
+  height: 44px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 20px);
+  opacity: 0;
+transform: translate(25px, 0);
+}
+
+.contact-mobile .contact-us-51KbhW.animate-enter20 {
+  animation: animate-enter20-frames 0.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(25px, 0);
+}
+
+@keyframes animate-enter20-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.contact-mobile .thank-you-for-choosing-catmex-51KbhW {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 17px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+  opacity: 0;
+transform: translate(25px, 0);
+}
+
+.contact-mobile .thank-you-for-choosing-catmex-51KbhW.animate-enter21 {
+  animation: animate-enter21-frames 0.40s ease-in-out 0.40s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(25px, 0);
+}
+
+@keyframes animate-enter21-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.contact-mobile .line-1-fkrDsD {
+  background-color: transparent;
+  bottom: calc(45.11% - 1px);
+  height: 2px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 101px);
+}
+
+.contact-mobile .group-11-fkrDsD {
+  background-color: transparent;
+  bottom: 65px;
+  height: 209px;
+  position: absolute;
+  right: calc(47.33% - 115px);
+  width: 244px;
+}
+
+.contact-mobile .rectangle-14-8aUTr0 {
+  background-color: transparent;
+  border-radius: 10px;
+  bottom: 7px;
+  height: 141px;
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 18px);
+}
+
+.contact-mobile .rectangle-15-8aUTr0 {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 37px;
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(15.70% - 6px);
+  width: calc(100.00% + 18px);
+}
+
+.contact-mobile .rectangle-16-8aUTr0 {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 37px;
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.contact-mobile .rectangle-18-8aUTr0 {
+  background-color: transparent;
+  border-radius: 8px;
+  bottom: -12px;
+  cursor: pointer;
+  height: 32px;
+  left: calc(47.95% - 35px);
+  object-fit: cover;
+  position: absolute;
+  width: 73px;
+}
+
+.contact-mobile .submit-8aUTr0 {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 13px;
+  left: calc(48.61% - 14px);
+  object-fit: cover;
+  position: absolute;
+  width: 28px;
+}
+
+.contact-mobile .name-8aUTr0 {
+  background-color: transparent;
+  border: 0;
+  height: 13px;
+  left: 9px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  top: 3px;
+  width: 22px;
+}
+
+.contact-mobile .email-8aUTr0 {
+  background-color: transparent;
+  border: 0;
+  height: 13px;
+  left: 9px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  top: calc(17.35% - 2px);
+  width: 23px;
+}
+
+.contact-mobile .message-8aUTr0 {
+  background-color: transparent;
+  border: 0;
+  height: 13px;
+  left: 9px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  top: calc(34.18% - 4px);
+  width: 34px;
+}
+
+.contact-mobile .menu-fkrDsD {
+  background-color: transparent;
+  height: 48px;
+  left: -5px;
+  position: absolute;
+  top: -3px;
+  width: calc(100.00% + 5px);
+}
+
+.contact-mobile .navbar-iAJfPB {
+  background-color: var(--scampi);
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 6px);
+  left: 6px;
+  opacity: 0.42;
+  position: absolute;
+  top: 3px;
+  width: calc(100.00% - 6px);
+}
+
+.contact-mobile .line-3-iAJfPB {
+  background-color: transparent;
+  bottom: 35.33%;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 52px;
+  width: 35px;
+}
+
+.contact-mobile .home-iAJfPB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 9px;
+  left: calc(26.82% - 6px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(48.72% - 4px);
+  width: 22px;
+}
+
+.contact-mobile .services-iAJfPB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(36.93% - 10px);
+  top: calc(48.72% - 4px);
+  width: 28px;
+}
+
+.contact-mobile .contact-iAJfPB {
+  background-color: transparent;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(16.76% - 5px);
+  top: calc(48.72% - 4px);
+  width: 28px;
+}
+
+.contact-mobile .about-iAJfPB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10px;
+  left: calc(44.51% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 5px);
+  width: 25px;
+}
+
+.contact-mobile .catmexlogomain2-01-iAJfPB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 86px;
+}
+
+.contact-mobile .licensed-bonded-fkrDsD {
+  background-color: transparent;
+  bottom: 35px;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.39% - 46px);
+  width: 96px;
+}
+
+.contact-mobile .spanish-english-sign-language-fkrDsD {
+  background-color: transparent;
+  bottom: 25px;
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.30% - 53px);
+  width: 110px;
+}

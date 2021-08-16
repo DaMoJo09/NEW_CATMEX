@@ -1,0 +1,340 @@
+/* screen - contact-tablet */
+
+.contact-tablet {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1024px;
+  min-width: 768px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.contact-tablet .bgimgpg3-Lfq12x {
+  background-color: transparent;
+  height: 540px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.contact-tablet .contact-us-Lfq12x {
+  background-color: transparent;
+  display: block;
+  height: 62px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.89% - 164px);
+  top: calc(22.97% - 14px);
+  width: 329px;
+  opacity: 0;
+}
+
+.contact-tablet .contact-us-Lfq12x.animate-enter14 {
+  animation: animate-enter14-frames 0.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter14-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.contact-tablet .thank-you-for-choosing-catmex-Lfq12x {
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 172px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(29.67% - 7px);
+  width: 344px;
+  opacity: 0;
+}
+
+.contact-tablet .thank-you-for-choosing-catmex-Lfq12x.animate-enter15 {
+  animation: animate-enter15-frames 0.40s ease-in-out 0.40s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter15-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.contact-tablet .rectangle-17-Lfq12x {
+  background-color: transparent;
+  border-radius: 9px;
+  bottom: 15px;
+  height: 496px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 44px);
+}
+
+.contact-tablet .contact-us-cAc3x2 {
+  background-color: transparent;
+  bottom: calc(30.28% - 16px);
+  height: 53px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  width: 170px;
+}
+
+.contact-tablet .for-estimates-q-ve-us-a-message-Lfq12x {
+  background-color: transparent;
+  bottom: calc(23.66% - 12px);
+  height: 52px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  width: 262px;
+}
+
+.contact-tablet .logo-facebook-Lfq12x {
+  background-color: transparent;
+  bottom: calc(40.76% - 11px);
+  height: 28px;
+  left: 119px;
+  object-fit: cover;
+  position: absolute;
+  width: 28px;
+}
+
+.contact-tablet .logo-instagram-Lfq12x {
+  background-color: transparent;
+  bottom: calc(40.79% - 10px);
+  height: 25px;
+  left: calc(27.43% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 25px;
+}
+
+.contact-tablet .logo-linkedin-Lfq12x {
+  background-color: transparent;
+  bottom: calc(40.75% - 12px);
+  height: 29px;
+  left: calc(38.67% - 11px);
+  object-fit: cover;
+  position: absolute;
+  width: 29px;
+}
+
+.contact-tablet .line-1-Lfq12x {
+  background-color: transparent;
+  bottom: 72px;
+  height: 378px;
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.contact-tablet .rectangle-14-Lfq12x {
+  background-color: transparent;
+  border-radius: 10px;
+  bottom: calc(19.28% - 19px);
+  height: 101px;
+  object-fit: cover;
+  position: absolute;
+  right: 38px;
+  width: 337px;
+}
+
+.contact-tablet .rectangle-15-Lfq12x {
+  background-color: transparent;
+  border-radius: 10px;
+  bottom: calc(28.54% - 12px);
+  height: 43px;
+  object-fit: cover;
+  position: absolute;
+  right: 38px;
+  width: 337px;
+}
+
+.contact-tablet .rectangle-16-Lfq12x {
+  background-color: transparent;
+  border-radius: 10px;
+  bottom: calc(32.93% - 14px);
+  height: 43px;
+  object-fit: cover;
+  position: absolute;
+  right: 38px;
+  width: 337px;
+}
+
+.contact-tablet .rectangle-18-Lfq12x {
+  background-color: transparent;
+  border-radius: 8px;
+  bottom: 124px;
+  cursor: pointer;
+  height: 37px;
+  object-fit: cover;
+  position: absolute;
+  right: 38px;
+  width: 93px;
+}
+
+.contact-tablet .name-Lfq12x {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(33.50% - 6px);
+  height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: calc(44.25% - 13px);
+  width: 29px;
+}
+
+.contact-tablet .email-Lfq12x {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(29.42% - 5px);
+  height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: calc(44.25% - 13px);
+  width: 29px;
+}
+
+.contact-tablet .message-Lfq12x {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(25.35% - 5px);
+  height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: calc(43.09% - 19px);
+  width: 44px;
+}
+
+.contact-tablet .submit-Lfq12x {
+  background-color: transparent;
+  bottom: 136px;
+  cursor: pointer;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: 66px;
+  width: 39px;
+}
+
+.contact-tablet .menu-Lfq12x {
+  background-color: transparent;
+  height: 88px;
+  left: -14px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 14px);
+}
+
+.contact-tablet .navbar-XcH3x7 {
+  background-color: var(--scampi);
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 7px);
+  left: 14px;
+  opacity: 0.42;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 14px);
+}
+
+.contact-tablet .line-3-XcH3x7 {
+  background-color: transparent;
+  bottom: 33.95%;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 106px;
+  width: 71px;
+}
+
+.contact-tablet .home-XcH3x7 {
+  background-color: transparent;
+  bottom: calc(50.00% - 11px);
+  cursor: pointer;
+  height: 22px;
+  left: calc(27.41% - 15px);
+  object-fit: cover;
+  position: absolute;
+  width: 56px;
+}
+
+.contact-tablet .services-XcH3x7 {
+  background-color: transparent;
+  bottom: calc(50.00% - 11px);
+  cursor: pointer;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(35.86% - 25px);
+  width: 71px;
+}
+
+.contact-tablet .contact-XcH3x7 {
+  background-color: transparent;
+  bottom: calc(50.00% - 11px);
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: 108px;
+  width: 70px;
+}
+
+.contact-tablet .about-XcH3x7 {
+  background-color: transparent;
+  bottom: calc(49.23% - 11px);
+  cursor: pointer;
+  height: 23px;
+  left: calc(45.30% - 26px);
+  object-fit: cover;
+  position: absolute;
+  width: 58px;
+}
+
+.contact-tablet .catmexlogomain2-01-XcH3x7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 156px;
+}
+
+.contact-tablet .licensed-bonded-Lfq12x {
+  background-color: transparent;
+  bottom: 54px;
+  height: 30px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  width: 150px;
+}
+
+.contact-tablet .spanish-english-sign-language-Lfq12x {
+  background-color: transparent;
+  bottom: 36px;
+  height: 21px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  width: 182px;
+}

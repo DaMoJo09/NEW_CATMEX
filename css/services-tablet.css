@@ -1,0 +1,459 @@
+/* screen - services-tablet */
+
+.services-tablet {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1024px;
+  min-width: 768px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.services-tablet .bgimgpg2-cXn8du {
+  background-color: transparent;
+  height: 591px;
+  left: -576px;
+  object-fit: cover;
+  position: absolute;
+  top: -14px;
+  width: calc(100.00% + 1152px);
+}
+
+.services-tablet .services-cXn8du {
+  background-color: transparent;
+  display: block;
+  height: 76px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.89% - 152px);
+  top: calc(21.31% - 16px);
+  width: 305px;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+.services-tablet .services-cXn8du.animate-enter16 {
+  animation: animate-enter16-frames 0.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+@keyframes animate-enter16-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.services-tablet .catmex-maintena-ust-maintenance-cXn8du {
+  background-color: transparent;
+  display: block;
+  height: 70px;
+  left: calc(50.00% - 177px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.87% - 22px);
+  width: 354px;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+.services-tablet .catmex-maintena-ust-maintenance-cXn8du.animate-enter17 {
+  animation: animate-enter17-frames 0.40s ease-in-out 0.40s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+@keyframes animate-enter17-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.services-tablet .repeat-grid-2-cXn8du {
+  background-color: transparent;
+  bottom: calc(35.85% - 107px);
+  height: 299px;
+  left: 23px;
+  position: absolute;
+  width: calc(100.00% - 47px);
+}
+
+.services-tablet .group-28-VFWso2 {
+  background-color: transparent;
+  height: 248px;
+  left: 44px;
+  position: absolute;
+  top: 0px;
+  width: 202px;
+}
+
+.services-tablet .card-eWIykv {
+  background-color: transparent;
+  height: 248px;
+  left: -0px;
+  position: relative;
+  top: 0px;
+  width: 202px;
+}
+
+.services-tablet .rectangle-39-ybiaWu {
+  background-color: var(--black-russian);
+  border-radius: 20px;
+  bottom: 1px;
+  box-shadow: 0px 3px 6px #00000029;
+  filter: blur(13.060400009155273px);;
+  height: 91px;
+  left: 4px;
+  opacity: 0.79;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+
+.services-tablet .group-31-ybiaWu {
+  background-color: transparent;
+  height: calc(100.00% - 36px);
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.5s ease-in-out;
+  width: 100%;
+}
+
+.services-tablet .group-31-ybiaWu:hover {
+  transform: scale(1.1);
+}
+
+.services-tablet .group-7-6RR9yw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.services-tablet .catmex-6RR9yw {
+  background-color: transparent;
+  bottom: calc(31.12% - 7px);
+  height: 24px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.services-tablet .landscaping-6RR9yw {
+  background-color: transparent;
+  bottom: calc(23.62% - 3px);
+  height: 13px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.services-tablet .we-install-all-esigns-to-the-c-6RR9yw {
+  background-color: transparent;
+  bottom: 10px;
+  height: 33px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 6px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 23px);
+}
+
+.services-tablet .group-28-uK2ASk {
+  background-color: transparent;
+  height: 248px;
+  left: 266px;
+  position: absolute;
+  top: 0px;
+  width: 202px;
+}
+
+.services-tablet .card-pzPFHO {
+  background-color: transparent;
+  height: 248px;
+  left: -0px;
+  position: relative;
+  top: 0px;
+  width: 202px;
+}
+
+.services-tablet .rectangle-39-EynfMR {
+  background-color: var(--black-russian);
+  border-radius: 20px;
+  bottom: 1px;
+  box-shadow: 0px 3px 6px #00000029;
+  filter: blur(13.060400009155273px);;
+  height: 91px;
+  left: 4px;
+  opacity: 0.79;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+
+.services-tablet .group-31-EynfMR {
+  background-color: transparent;
+  height: calc(100.00% - 36px);
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.5s ease-in-out;
+  width: 100%;
+}
+
+.services-tablet .group-31-EynfMR:hover {
+  transform: scale(1.1);
+}
+
+.services-tablet .group-7-2FOfUX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.services-tablet .catmex-2FOfUX {
+  background-color: transparent;
+  bottom: calc(31.12% - 7px);
+  height: 24px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.services-tablet .construction-2FOfUX {
+  background-color: transparent;
+  bottom: calc(23.62% - 3px);
+  height: 13px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.services-tablet .installation-of-al-and-disposal-2FOfUX {
+  background-color: transparent;
+  bottom: 10px;
+  height: 33px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 6px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 23px);
+}
+
+.services-tablet .group-28-nHwuel {
+  background-color: transparent;
+  height: 248px;
+  left: 488px;
+  position: absolute;
+  top: 0px;
+  width: 202px;
+}
+
+.services-tablet .card-MpdD6b {
+  background-color: transparent;
+  height: 248px;
+  left: -0px;
+  position: relative;
+  top: 0px;
+  width: 202px;
+}
+
+.services-tablet .rectangle-39-ahgYHG {
+  background-color: var(--black-russian);
+  border-radius: 20px;
+  bottom: 1px;
+  box-shadow: 0px 3px 6px #00000029;
+  filter: blur(13.060400009155273px);;
+  height: 91px;
+  left: 4px;
+  opacity: 0.79;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+
+.services-tablet .group-31-ahgYHG {
+  background-color: transparent;
+  height: calc(100.00% - 36px);
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.5s ease-in-out;
+  width: 100%;
+}
+
+.services-tablet .group-31-ahgYHG:hover {
+  transform: scale(1.1);
+}
+
+.services-tablet .group-7-BRRQcz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.services-tablet .catmex-BRRQcz {
+  background-color: transparent;
+  bottom: calc(31.12% - 7px);
+  height: 24px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.services-tablet .maintenance-BRRQcz {
+  background-color: transparent;
+  bottom: calc(23.62% - 3px);
+  height: 13px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.services-tablet .concrete-cuttin-d-grub-disposal-BRRQcz {
+  background-color: transparent;
+  bottom: 10px;
+  height: 33px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 6px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 23px);
+}
+
+.services-tablet .menu-cXn8du {
+  background-color: transparent;
+  height: 88px;
+  left: -14px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 14px);
+}
+
+.services-tablet .navbar-5i3baX {
+  background-color: var(--scampi);
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 7px);
+  left: 14px;
+  opacity: 0.42;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 14px);
+}
+
+.services-tablet .line-3-5i3baX {
+  background-color: transparent;
+  bottom: 33.95%;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(35.79% - 25px);
+  width: 71px;
+}
+
+.services-tablet .home-5i3baX {
+  background-color: transparent;
+  bottom: calc(50.00% - 11px);
+  cursor: pointer;
+  height: 22px;
+  left: calc(27.41% - 15px);
+  object-fit: cover;
+  position: absolute;
+  width: 56px;
+}
+
+.services-tablet .services-5i3baX {
+  background-color: transparent;
+  bottom: calc(50.00% - 11px);
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(35.86% - 25px);
+  width: 71px;
+}
+
+.services-tablet .contact-5i3baX {
+  background-color: transparent;
+  bottom: calc(50.00% - 11px);
+  cursor: pointer;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: 108px;
+  width: 70px;
+}
+
+.services-tablet .about-5i3baX {
+  background-color: transparent;
+  bottom: calc(49.23% - 11px);
+  cursor: pointer;
+  height: 23px;
+  left: calc(45.30% - 26px);
+  object-fit: cover;
+  position: absolute;
+  width: 58px;
+}
+
+.services-tablet .catmexlogomain2-01-5i3baX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 156px;
+}

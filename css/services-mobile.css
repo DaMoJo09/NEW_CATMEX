@@ -1,0 +1,463 @@
+/* screen - services-mobile */
+
+.services-mobile {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 667px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.services-mobile .bgimgpg2-gQtzCv {
+  background-color: transparent;
+  height: calc(100.00% + 199px);
+  left: -772px;
+  object-fit: cover;
+  position: absolute;
+  top: -60px;
+  width: calc(100.00% + 1545px);
+}
+
+.services-mobile .group-7-gQtzCv {
+  background-color: transparent;
+  height: 79px;
+  left: calc(47.47% - 75px);
+  position: absolute;
+  top: 64px;
+  width: 158px;
+}
+
+.services-mobile .services-IEeaED {
+  background-color: transparent;
+  display: block;
+  height: 34px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 20px);
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+.services-mobile .services-IEeaED.animate-enter22 {
+  animation: animate-enter22-frames 0.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+@keyframes animate-enter22-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.services-mobile .catmex-maintena-ust-maintenance-IEeaED {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 32px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+.services-mobile .catmex-maintena-ust-maintenance-IEeaED.animate-enter23 {
+  animation: animate-enter23-frames 0.40s ease-in-out 0.40s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+@keyframes animate-enter23-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.services-mobile .menu-gQtzCv {
+  background-color: transparent;
+  height: 48px;
+  left: -5px;
+  position: absolute;
+  top: -3px;
+  width: calc(100.00% + 5px);
+}
+
+.services-mobile .navbar-VGxrTe {
+  background-color: var(--scampi);
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 6px);
+  left: 6px;
+  opacity: 0.42;
+  position: absolute;
+  top: 3px;
+  width: calc(100.00% - 6px);
+}
+
+.services-mobile .line-3-VGxrTe {
+  background-color: transparent;
+  bottom: 35.33%;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(36.79% - 10px);
+  width: 28px;
+}
+
+.services-mobile .home-VGxrTe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 9px;
+  left: calc(26.82% - 6px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(48.72% - 4px);
+  width: 22px;
+}
+
+.services-mobile .services-VGxrTe {
+  background-color: transparent;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(36.93% - 10px);
+  top: calc(48.72% - 4px);
+  width: 28px;
+}
+
+.services-mobile .contact-VGxrTe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(16.76% - 5px);
+  top: calc(48.72% - 4px);
+  width: 28px;
+}
+
+.services-mobile .about-VGxrTe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10px;
+  left: calc(44.51% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 5px);
+  width: 25px;
+}
+
+.services-mobile .catmexlogomain2-01-VGxrTe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 86px;
+}
+
+.services-mobile .card-gQtzCv {
+  background-color: transparent;
+  bottom: 2px;
+  height: 503px;
+  left: 77px;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.5s ease;
+  width: calc(100.00% - 153px);
+}
+
+.services-mobile .card-gQtzCv:hover {
+  transform: scale(1.1);
+}
+
+.services-mobile .card-g0Kt1N {
+  background-color: transparent;
+  height: 160px;
+  left: 46px;
+  position: absolute;
+  top: -0px;
+  width: 129px;
+}
+
+.services-mobile .rectangle-39-I3pv2O {
+  background-color: var(--black-russian);
+  border-radius: 20px;
+  box-shadow: 0px 3px 6px #00000029;
+  filter: blur(13.060400009155273px);;
+  height: 59px;
+  left: 2px;
+  opacity: 0.79;
+  position: absolute;
+  top: 101px;
+  width: 126px;
+}
+
+.services-mobile .group-32-I3pv2O {
+  background-color: transparent;
+  height: 136px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.5s ease-in-out;
+  width: 129px;
+}
+
+.services-mobile .group-32-I3pv2O:hover {
+  transform: scale(1.1);
+}
+
+.services-mobile .mask-group-7-flFwcn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.5s ease-in-out;
+  width: 100%;
+}
+
+.services-mobile .mask-group-7-flFwcn:hover {
+  transform: scale(1.1);
+}
+
+.services-mobile .catmex-flFwcn {
+  background-color: transparent;
+  bottom: calc(31.75% - 4px);
+  height: 14px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.services-mobile .landscaping-flFwcn {
+  background-color: transparent;
+  bottom: calc(23.89% - 2px);
+  height: 7px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 4px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.services-mobile .we-install-all-esigns-to-the-c-flFwcn {
+  background-color: transparent;
+  bottom: 4px;
+  height: 24px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 4px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 13px);
+}
+
+.services-mobile .card-sGFPnx {
+  background-color: transparent;
+  height: 160px;
+  left: 46px;
+  position: absolute;
+  top: 166px;
+  width: 129px;
+}
+
+.services-mobile .rectangle-39-FfUDDZ {
+  background-color: var(--black-russian);
+  border-radius: 20px;
+  box-shadow: 0px 3px 6px #00000029;
+  filter: blur(13.060400009155273px);;
+  height: 59px;
+  left: 2px;
+  opacity: 0.79;
+  position: absolute;
+  top: 101px;
+  width: 126px;
+}
+
+.services-mobile .group-32-FfUDDZ {
+  background-color: transparent;
+  height: 136px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.5s ease-in-out;
+  width: 129px;
+}
+
+.services-mobile .group-32-FfUDDZ:hover {
+  transform: scale(1.1);
+}
+
+.services-mobile .mask-group-7-7yTK5M {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.5s ease-in-out;
+  width: 100%;
+}
+
+.services-mobile .mask-group-7-7yTK5M:hover {
+  transform: scale(1.1);
+}
+
+.services-mobile .catmex-7yTK5M {
+  background-color: transparent;
+  bottom: calc(31.75% - 4px);
+  height: 14px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.services-mobile .landscaping-7yTK5M {
+  background-color: transparent;
+  bottom: calc(23.89% - 2px);
+  height: 7px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 4px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.services-mobile .installation-of-al-and-disposal-7yTK5M {
+  background-color: transparent;
+  bottom: 4px;
+  height: 24px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 4px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 13px);
+}
+
+.services-mobile .card-Gq8zZ7 {
+  background-color: transparent;
+  height: 160px;
+  left: 46px;
+  position: absolute;
+  top: 332px;
+  width: 129px;
+}
+
+.services-mobile .rectangle-39-DE2pWO {
+  background-color: var(--black-russian);
+  border-radius: 20px;
+  box-shadow: 0px 3px 6px #00000029;
+  filter: blur(13.060400009155273px);;
+  height: 59px;
+  left: 2px;
+  opacity: 0.79;
+  position: absolute;
+  top: 101px;
+  width: 126px;
+}
+
+.services-mobile .group-32-DE2pWO {
+  background-color: transparent;
+  height: 136px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.5s ease-in-out;
+  width: 129px;
+}
+
+.services-mobile .group-32-DE2pWO:hover {
+  transform: scale(1.1);
+}
+
+.services-mobile .mask-group-7-3b2kxl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.5s ease-in-out;
+  width: 100%;
+}
+
+.services-mobile .mask-group-7-3b2kxl:hover {
+  transform: scale(1.1);
+}
+
+.services-mobile .catmex-3b2kxl {
+  background-color: transparent;
+  bottom: calc(31.75% - 4px);
+  height: 14px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.services-mobile .maintenance-3b2kxl {
+  background-color: transparent;
+  bottom: calc(23.89% - 2px);
+  height: 7px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 4px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.services-mobile .concrete-cuttin-d-grub-disposal-3b2kxl {
+  background-color: transparent;
+  bottom: 4px;
+  height: 24px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 4px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 13px);
+}
