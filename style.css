@@ -1,17 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
-*
-{
+@import url("https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap");
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
-html
-{
+html {
   scroll-behavior: smooth;
 }
-header
-{
+header {
   position: fixed;
   top: 0;
   left: 0;
@@ -23,14 +20,12 @@ header
   padding: 40px 100px;
   z-index: 100000;
 }
-header.sticky
-{
+header.sticky {
   padding: 5px 100px;
   background: #fff;
-  border-bottom: 1px solid rgba(0,0,0,.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
-header .logo
-{
+header .logo {
   position: relative;
   font-weight: 700;
   color: #fff;
@@ -40,20 +35,17 @@ header .logo
   letter-spacing: 2px;
   transition: 0.6s;
 }
-header ul
-{
+header ul {
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-header ul li
-{
+header ul li {
   position: relative;
   list-style: none;
 }
-header ul li a
-{
+header ul li a {
   position: relative;
   margin: 0 15px;
   text-decoration: none;
@@ -62,36 +54,31 @@ header ul li a
   font-weight: 300;
   transition: 0.6s;
 }
-.banner
-{
+.banner {
   position: relative;
   width: 100%;
   min-height: 100vh;
-  background: url(bg.jpg);
+  background: url(bg1.png);
   background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.banner h2
-{
+.banner h2 {
   color: #fff;
   font-size: 90px;
   text-transform: uppercase;
   text-align: center;
   line-height: 1em;
 }
-.banner h2 span
-{
+.banner h2 span {
   color: #4978ff;
 }
 header.sticky .logo,
-header.sticky ul li a
-{
+header.sticky ul li a {
   color: #000;
 }
-.sec
-{
+.sec {
   background: #fff;
   padding: 100px;
   min-height: 100vh;
@@ -99,33 +86,28 @@ header.sticky ul li a
   justify-content: center;
   align-items: center;
 }
-.sec .content
-{
+.sec .content {
   position: relative;
   text-align: center;
   width: 100%;
 }
-.mxw800p
-{
+.mxw800p {
   max-width: 800px;
   margin: 0 auto;
 }
-h3
-{
+h3 {
   font-size: 40px;
   font-weight: 200;
   margin-bottom: 10px;
 }
-p
-{
+p {
   position: relative;
   font-size: 18px;
   font-weight: 300;
   margin-bottom: 20px;
   letter-spacing: 1px;
 }
-.btn
-{
+.btn {
   position: relative;
   display: inline-block;
   padding: 10px 30px;
@@ -134,8 +116,7 @@ p
   background: #000;
   color: #fff;
 }
-.services
-{
+.services {
   position: relative;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -143,44 +124,37 @@ p
   max-width: 100%;
   margin-top: 40px;
 }
-.services .box
-{
+.services .box {
   width: 350px;
   margin: 0 auto;
   background: #fff;
   padding: 20px;
   width: 300px;
-  box-shadow: 0 15px 30px rgba(0,0,0,.05);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.05);
 }
-.services .box .iconBx
-{
+.services .box .iconBx {
   margin-top: 25px;
 }
-.services .box .iconBx img
-{
+.services .box .iconBx img {
   max-width: 70px;
   margin-bottom: 15px;
 }
-.services .box h2
-{
+.services .box h2 {
   font-size: 18px;
   margin-bottom: 10px;
   text-transform: uppercase;
   font-weight: 700;
 }
-.stats
-{
+.stats {
   padding-top: 250px;
   background: #000;
   margin-top: -250px;
 }
 .stats h3,
-.stats p
-{
+.stats p {
   color: #fff;
 }
-.statsBox
-{
+.statsBox {
   position: relative;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -188,21 +162,18 @@ p
   max-width: 100%;
   margin-top: 40px;
 }
-.statsBox h2
-{
+.statsBox h2 {
   color: #fff;
   font-size: 36px;
 }
-.statsBox h4
-{
+.statsBox h4 {
   color: #fff;
   font-size: 16px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-.workBx
-{
+.workBx {
   position: relative;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -210,8 +181,7 @@ p
   max-width: 100%;
   margin-top: 40px;
 }
-.workBx .brand
-{
+.workBx .brand {
   position: relative;
   background: #4978ff;
   min-height: 300px;
@@ -221,26 +191,22 @@ p
   justify-content: center;
   align-items: center;
 }
-.workBx .brand:hover
-{
+.workBx .brand:hover {
   background: #000;
 }
-.workBx .brand a
-{
+.workBx .brand a {
   text-decoration: none;
-  color: rgba(255,255,255,.4);
+  color: rgba(255, 255, 255, 0.4);
   text-transform: uppercase;
   font-size: 14px;
   letter-spacing: 2px;
 }
-.workBx .brand:hover a
-{
+.workBx .brand:hover a {
   text-decoration: none;
   color: #fff;
 }
 
-.teamBx
-{
+.teamBx {
   position: relative;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -248,8 +214,7 @@ p
   max-width: 100%;
   margin-top: 40px;
 }
-.teamBx .member
-{
+.teamBx .member {
   position: relative;
   background: #f5f5f5;
   min-height: 300px;
@@ -259,16 +224,14 @@ p
   justify-content: center;
   align-items: center;
 }
-.teamBx .member .imgBx
-{
+.teamBx .member .imgBx {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
 }
-.teamBx .member .imgBx img
-{
+.teamBx .member .imgBx img {
   position: absolute;
   top: 0;
   left: 0;
@@ -276,8 +239,7 @@ p
   height: 100%;
   object-fit: cover;
 }
-.teamBx .member .details
-{
+.teamBx .member .details {
   position: absolute;
   top: 0;
   left: 0;
@@ -290,61 +252,50 @@ p
   background: #000;
   transition: 0.2s;
 }
-.teamBx .member:hover .details
-{
+.teamBx .member:hover .details {
   opacity: 1;
 }
-.teamBx .member .details h2
-{
+.teamBx .member .details h2 {
   color: #fff;
   text-transform: uppercase;
   font-size: 20px;
   letter-spacing: 1px;
 }
-.teamBx .member .details h2 span
-{
+.teamBx .member .details h2 span {
   display: block;
   font-size: 12px;
   font-weight: 300;
 }
-.contact
-{
+.contact {
   background: #000;
 }
 .contact h3,
-.contact p
-{
+.contact p {
   color: #fff;
 }
-.conactForm
-{
+.conactForm {
   position: relative;
   max-width: 800px;
   margin: 0 auto;
   display: flex;
 }
-.conactForm form
-{
+.conactForm form {
   width: 100%;
 }
-.conactForm .row100
-{
+.conactForm .row100 {
   display: flex;
   width: 100%;
 }
-.conactForm .row100 .inputBx50
-{
+.conactForm .row100 .inputBx50 {
   width: 50%;
   margin: 0 20px;
 }
-.conactForm .row100 .inputBx100
-{
+.conactForm .row100 .inputBx100 {
   width: 100%;
   margin: 0 20px;
 }
 .conactForm .row100 input,
-.conactForm .row100 textarea
-{
+.conactForm .row100 textarea {
   position: relative;
   border: none;
   border-bottom: 1px solid #fff;
@@ -358,17 +309,14 @@ p
   margin: 20px 0;
   resize: none;
 }
-.conactForm .row100 textarea
-{
+.conactForm .row100 textarea {
   height: 100px;
 }
 .conactForm .row100 input::placeholder,
-.conactForm .row100 textarea::placeholder
-{
-  color: rgba(255,255,255,.5);
+.conactForm .row100 textarea::placeholder {
+  color: rgba(255, 255, 255, 0.5);
 }
-.conactForm .row100 input[type="submit"]
-{
+.conactForm .row100 input[type="submit"] {
   background: #fff;
   color: #000;
   max-width: 100px;
@@ -378,58 +326,47 @@ p
   cursor: pointer;
   font-weight: 500;
 }
-.sci
-{
+.sci {
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 50px 0; 
+  margin: 50px 0;
 }
-.sci ul
-{
+.sci ul {
   display: flex;
 }
-.sci ul li
-{
+.sci ul li {
   list-style: none;
 }
-.sci ul li a
-{
+.sci ul li a {
   text-decoration: none;
   display: inline-block;
   margin: 0 30px;
 }
-.sci ul li a img
-{
+.sci ul li a img {
   filter: invert(1);
   max-width: 40px;
 }
-.sci ul li a:hover img
-{
+.sci ul li a:hover img {
   opacity: 0.5;
 }
-.copyright a
-{
+.copyright a {
   color: #fff;
 }
-.toggle
-{
+.toggle {
   display: none;
 }
-@media (max-width: 992px)
-{
-  .toggle
-  {
+@media (max-width: 992px) {
+  .toggle {
     display: block;
     position: relative;
     width: 30px;
     height: 30px;
     cursor: pointer;
   }
-  .toggle:before
-  {
-    content: '';
+  .toggle:before {
+    content: "";
     position: absolute;
     top: 4px;
     width: 100%;
@@ -439,9 +376,8 @@ p
     box-shadow: 0 10px 0 #000;
     transition: 0.5s;
   }
-  .toggle:after
-  {
-    content: '';
+  .toggle:after {
+    content: "";
     position: absolute;
     bottom: 4px;
     width: 100%;
@@ -450,32 +386,27 @@ p
     z-index: 1;
     transition: 0.5s;
   }
-  header.active .toggle:before 
-  {
+  header.active .toggle:before {
     top: 14px;
     transform: rotate(45deg);
     box-shadow: 0 0 0 #000;
   }
-  header.active .toggle:after 
-  {
+  header.active .toggle:after {
     bottom: 14px;
     transform: rotate(-45deg);
   }
 
-  header.active .toggle:before 
-  {
+  header.active .toggle:before {
     top: 14px;
     transform: rotate(45deg);
     box-shadow: 0 0 0 #000;
   }
-  header.active .toggle:after 
-  {
+  header.active .toggle:after {
     bottom: 14px;
     transform: rotate(-45deg);
   }
 
-  header ul
-  {
+  header ul {
     position: absolute;
     top: 59px;
     left: 0;
@@ -488,81 +419,65 @@ p
     opacity: 0;
     /*transform: translateY(-100%);*/
   }
-  header.active ul
-  {
+  header.active ul {
     display: block;
     background: #fff;
     visibility: visible;
     opacity: 1;
     /*transform: translateY(0);*/
   }
-  header.active ul li a
-  {
+  header.active ul li a {
     margin: 5px 0;
     font-size: 24px;
   }
   header,
-  header.sticky
-  {
+  header.sticky {
     padding: 5px 50px;
     background: #fff;
   }
   header .logo,
-  header ul li a
-  {
+  header ul li a {
     color: #000;
   }
-  .banner
-  {
+  .banner {
     background-position: center;
   }
-  .banner h2
-  {
+  .banner h2 {
     font-size: 60px;
     padding: 0 50px;
   }
-  .sec
-  {
+  .sec {
     padding: 100px 50px 50px 50px;
   }
-  h3
-  {
+  h3 {
     font-size: 36px;
     line-height: 1em;
   }
-  .services
-  {
+  .services {
     grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
   }
-  .services .box
-  {
+  .services .box {
     width: 100%;
   }
-  .stats
-  {
+  .stats {
     padding-top: 250px;
   }
-  .conactForm .row100
-  {
+  .conactForm .row100 {
     flex-direction: column;
   }
   .conactForm .row100 .inputBx50,
-  .conactForm .row100 .inputBx100
-  {
+  .conactForm .row100 .inputBx100 {
     width: 100%;
     margin: 0;
   }
-  .sci 
-  {
+  .sci {
     margin: 20px;
   }
-  .sci ul li a img
-  {
+  .sci ul li a img {
     filter: invert(1);
     max-width: 24px;
   }
-  .workBx .brand
-  {
+  .workBx .brand {
     background: #4978ff;
   }
 }
