@@ -58,7 +58,7 @@ header ul li a {
   position: relative;
   width: 100%;
   min-height: 100vh;
-  background: url(bg1.png);
+  background: url(/Users/mojosmadness/Downloads/Client_site_1/images/bg1.png);
   background-size: cover;
   display: flex;
   justify-content: center;
