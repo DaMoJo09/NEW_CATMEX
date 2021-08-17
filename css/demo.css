@@ -17,7 +17,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-sectionx {
+section2 {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -30,7 +30,7 @@ sectionx {
 
 	min-height: 100vh;
 }
-sectionx .card {
+section2 .card {
 	position: relative;
 	width: 320px;
 	height: 320px;
@@ -38,7 +38,7 @@ sectionx .card {
 	transform-style: preserve-3d;
 	perspective: 1000px;
 }
-sectionx .card .box {
+section2 .card .box {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -47,17 +47,17 @@ sectionx .card .box {
 	transform-style: preserve-3d;
 	transition: 1s ease;
 }
-sectionx .card:hover .box {
+section2 .card:hover .box {
 	transform: rotateY(180deg);
 }
-sectionx .card .imgBx {
+section2 .card .imgBx {
 	position: absolute;
 	top: 0;
 	left: 0;
 	width: 100%;
 	height: 100%;
 }
-sectionx .card .imgBx img {
+section2 .card .imgBx img {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -66,7 +66,7 @@ sectionx .card .imgBx img {
 	object-fit: cover;
 }
 
-sectionx .card .contentBx {
+section2 .card .contentBx {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -80,19 +80,19 @@ sectionx .card .contentBx {
 	align-items: center;
 	transform-style: preserve-3d;
 }
-sectionx .card .contentBx div {
+section2 .card .contentBx div {
 	transform-style: preserve-3d;
 	transform: translateZ(100px);
 	background: linear-gradient(45deg, #7f7087, #1100ff);
 	padding: 20px;
 }
-sectionx .card .contentBx div h2 {
+section2 .card .contentBx div h2 {
 	font-size: 20px;
 	color: #fff;
 	letter-spacing: 1px;
 	backface-visibility: hidden;
 }
-sectionx .card .contentBx div p {
+section2 .card .contentBx div p {
 	font-size: 16px;
 	color: #fff;
 	backface-visibility: hidden;
